@@ -1,8 +1,5 @@
 # Disaster-Management-Framework-using-ML
 
-# Stock Price Prediction
-
-Stop Price Prediction is implemented using Deep Learning Models(ConvLSTM, Bidirectional LSTM etc.,) for Univariate and Multivariate Analysis. 
 
 # Technologies Used
 -> Python 3.8\
@@ -11,28 +8,13 @@ Stop Price Prediction is implemented using Deep Learning Models(ConvLSTM, Bidire
 -> TensorFlow 2.7.0\
 -> Numpy 1.11.0\
 -> Matplotlib 3.1\
--> Pywebio 1.5.2
 
-# Features
--> User can predict the stock Price based on the past data.\
--> User can reset the value they entered.
 
-# Performance Metrics:
-1. Univariate LSTM:\
-   Train Score: 1.90 RMSE\
-   Test Score: 1.91 RMSE\
-   Loss Average: 3.6258
-2. Multivariate LSTM:\
-   Train Score: 0.25 RMSE\
-   Loss Average: 0.0767
+# Research work presented in MISP International conference organized by NIT Raipur
 
-# Drive Link for the Video of Demo and Simulation
+# Drive Link of presentation:
+https://drive.google.com/file/d/14UoJBAiGbLOvxYEGlB5VpSSVI7rREzae/view
 
-Univariate and Multivariate LSTM for Stock Price Prediction : https://drive.google.com/file/d/1PUqomvealmMsIXnPJbhsaRlsfRyzMmTG/view?usp=sharing
-
-# To Do
--> Better UI for Prediction\
--> Chatbot for helping users.
 
 # Contributed By
 1. Gokul Raj S N
