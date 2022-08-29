@@ -7,7 +7,7 @@
 -> Keras 2.7\
 -> TensorFlow 2.7.0\
 -> Numpy 1.11.0\
--> Matplotlib 3.1\
+-> Matplotlib 3.1
 
 
 # Research work presented in MISP International conference organized by NIT Raipur
