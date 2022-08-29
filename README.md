@@ -12,7 +12,7 @@
 
 # Research work presented in MISP International conference organized by NIT Raipur
 
-# Drive Link of presentation:
+# Drive Link of certificate of presentation:
 https://drive.google.com/file/d/14UoJBAiGbLOvxYEGlB5VpSSVI7rREzae/view
 
 
